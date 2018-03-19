@@ -1,0 +1,35 @@
+body{
+  font-family: 'muli';
+  font-size: 16px;
+  color: #000;
+
+}
+
+h2{
+  font-size: 40px;
+}
+
+#section-whois{
+  margin-top: 3em;
+}
+
+.title{
+  text-align: center;
+}
+
+.row {
+    margin-top: 45px;
+}
+
+.img-whois{
+  box-shadow: 5px 5px #f8f6f6;
+}
+
+.image-section{
+  padding: 50px;
+}
+
+.text-section{
+  padding: 50px;
+  text-align: justify;
+}
